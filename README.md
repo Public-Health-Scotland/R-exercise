@@ -4,4 +4,4 @@ This example will be given to teams interested in creating a Reproducible Analyt
 
 The data used in this example are a populations file split by council area, year, age and sex (downloaded from the [NRS website](https://www.nrscotland.gov.uk/)) and a council area name/code lookup file. The example is focused predominantly on manipulations carried out on the populations file.
 
-Code and comments are provided for section 1. The comments for sections 2 and 3 are provided; space is provided to fill in the code. We would recommend using the tidyverse style of coding and piping (%>%) each part of section 3 together.
+Code and comments are provided for section 1. The comments for sections 2 and 3 are provided; space is provided to fill in the code. We would recommend using the tidyverse style of coding and piping (`%>%`) each part of section 3 together.
