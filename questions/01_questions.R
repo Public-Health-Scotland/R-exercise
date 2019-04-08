@@ -1,5 +1,5 @@
 ################################################################
-### RAP example - questions
+### R exercise - questions
 ###
 ### Original Author: Tina Fu
 ### Original Date: 05 March 2018
