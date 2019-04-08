@@ -6,28 +6,13 @@
 ### Last edited by: Jack Hannah
 ### Last edited on: 08 April 2019
 ###
+### Can be run on either RStudio Server or RStudio Desktop
 ###
 ### Packages required:
 ### readxl (for loading excel files);
 ### here (for defining filepaths);
 ### readr (for reading csv files and data manipulation);
 ### dplyr and tidyr (for data manipulation)
-###
-### This example will be given to teams interested in creating a Reproducible 
-### Analytical Pipeline (RAP) by TPP. In the absence of a team having a small,
-### suitable piece of past work in R (such as an information request) to give
-### to TPP, this example is designed to give a rough indication of a team's 
-### experience with R.
-###
-### The data used in this example are a populations file split by council area, 
-### year, age and sex (downloaded from the NRS website) and a council area 
-### name/code lookup file. The example is focused predominantly on 
-### manipulations carried out on the populations file.
-###
-### Code and comments are provided for section 1. The comments for sections 2 
-### and 3 are provided; space is provided to fill in the code. We would 
-### recommend using the tidyverse style of coding and piping (%>%) each part of 
-### section 3 together.
 
 
 
