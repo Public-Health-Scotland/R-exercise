@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# 'answers' folder #
+# 'background-manipulation' folder #
+answers/
+background-manipulation/
