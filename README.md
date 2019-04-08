@@ -6,4 +6,4 @@ The data used in this example are a populations file split by council area, year
 
 Code and comments are provided for section 1. The comments for sections 2 and 3 are provided; space is provided to fill in the code. We would recommend using the tidyverse style of coding and piping (`%>%`) each part of section 3 together.
 
-To download this repository, click the green 'Clone or download' button on the front page and then click 'Download ZIP'.
+To download this repository, click the green 'Clone or download' button and then click 'Download ZIP'.
