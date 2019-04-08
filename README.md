@@ -1,4 +1,4 @@
-# RAP-example
+# R-exercise
 
 This example will be given to teams interested in creating a Reproducible Analytical Pipeline (RAP) by TPP. In the absence of a team having a small, suitable piece of past work in R (such as an information request) to give to TPP, this example is designed to give a rough indication of a team's experience with R.
 
