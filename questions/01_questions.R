@@ -82,7 +82,7 @@ library(tidyr)
   
   # Drop the 'age_' prefix from the values contained within the age variable 
   # and convert this variable to numeric
-  # (Hint: use readr::parse_number() in the first part)
+  # (Hint: use readr::parse_number())
   
   
   # Arrange the data in ascending order of year, council area code, age and sex
