@@ -65,7 +65,7 @@ library(tidyr)
 # Manipulate the populations file created in Section 2.1 by following the below  
 # steps
 
-# Create new data frame from populations dataset (e.g 'new_pops')
+# Create new data frame from the existing populations dataset (e.g 'new_pops')
 
   
   # Join this with the council area lookup
