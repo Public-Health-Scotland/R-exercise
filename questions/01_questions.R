@@ -85,7 +85,8 @@ library(tidyr)
    
   
   # Drop the 'age_' prefix from the values contained within the age variable 
-  # and convert this variable to numeric
+  # and convert this variable to numeric, changing the 'age_90_and_over' value 
+  # to 90 in the process
   # (Hint: use readr::parse_number())
   
   
