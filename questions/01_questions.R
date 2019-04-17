@@ -4,7 +4,7 @@
 ### Original Author: Tina Fu
 ### Original Date: 05 March 2018
 ### Last edited by: Jack Hannah
-### Last edited on: 08 April 2019
+### Last edited on: 17 April 2019
 ###
 ### Can be run on either RStudio Server or RStudio Desktop
 ###
@@ -47,18 +47,24 @@ library(tidyr)
 ### Section 2: Load data ----
 
 
-# 1.1 - Read in populations file (populations_by_age_sex_council.xlsx)
+# 1.1 - Read in populations file (populations_by_age_sex_council.xlsx) and 
+# assign it to a new data frame (e.g. 'pops')
 
 
 
 
-
-# 1.2 - Read in council area lookup file (ca_lookup.csv)
+# 1.2 - Read in council area lookup file (ca_lookup.csv) and assign it to a new 
+# data frame (e.g. 'ca_lookup')
 
 
 
 
 ### Section 3: Data manipulation ----
+
+
+# Manipulate the populations file created in section 1.1 by following the below  
+# steps
+# Assign the final output to a new dataframe (e.g. new_pops)
 
 
 # Create new data frame from populations dataset
