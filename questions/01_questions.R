@@ -47,13 +47,13 @@ library(tidyr)
 ### Section 2: Load data ----
 
 
-# 1.1 - Read in populations file (populations_by_age_sex_council.xlsx) and 
+# 2.1 - Read in populations file (populations_by_age_sex_council.xlsx) and 
 # assign it to a new data frame (e.g. 'pops')
 
 
 
 
-# 1.2 - Read in council area lookup file (ca_lookup.csv) and assign it to a new 
+# 2.2 - Read in council area lookup file (ca_lookup.csv) and assign it to a new 
 # data frame (e.g. 'ca_lookup')
 
 
@@ -62,12 +62,10 @@ library(tidyr)
 ### Section 3: Data manipulation ----
 
 
-# Manipulate the populations file created in section 1.1 by following the below  
+# Manipulate the populations file created in Section 2.1 by following the below  
 # steps
-# Assign the final output to a new dataframe (e.g. new_pops)
 
-
-# Create new data frame from populations dataset
+# Create new data frame from populations dataset (e.g 'new_pops')
 
   
   # Join this with the council area lookup
