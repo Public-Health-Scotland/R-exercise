@@ -47,7 +47,7 @@ library(tidyr)
 ### Section 2: Load data ----
 
 
-# 1.1 - Read in populations file (populations_by_age_council.xlsx)
+# 1.1 - Read in populations file (populations_by_age_sex_council.xlsx)
 
 
 
