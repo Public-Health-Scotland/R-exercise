@@ -66,7 +66,7 @@ library(tidyr)
 # steps
 
 # Create new data frame from the existing populations dataset (e.g 'new_pops')
-new_df <- pops %>%
+new_pops <- pops %>%
   
   # Join this with the council area lookup
   
