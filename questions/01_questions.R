@@ -4,7 +4,7 @@
 ### Original Author: Tina Fu
 ### Original Date: 05 March 2018
 ### Last edited by: Jack Hannah
-### Last edited on: 17 April 2019
+### Last edited on: 23 April 2019
 ###
 ### Can be run on either RStudio Server or RStudio Desktop
 ###
@@ -66,7 +66,7 @@ library(tidyr)
 # steps
 
 # Create new data frame from the existing populations dataset (e.g 'new_pops')
-
+new_df <- pops %>%
   
   # Join this with the council area lookup
   
