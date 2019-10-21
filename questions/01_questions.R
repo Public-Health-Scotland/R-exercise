@@ -73,10 +73,6 @@ new_pops <- pops %>%
   
   # Create a new variable called 'sex_name' which is Male if 'sex' is 1 and 
   # Female if 'sex' is 2
-   
-  
-  # Arrange the data in ascending order of year, council area code and sex (not 
-  # sex_name)
   
   
   # Restructure the dataset so that age is a single column with a corresponding 
@@ -93,6 +89,9 @@ new_pops <- pops %>%
   
   
   # Arrange the data in ascending order of year, council area code, age and sex
+  
+  
+  # Remove all years of data prior to 2000
   
   
   # Re-order the variables so that year, council area code, council area name 
