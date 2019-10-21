@@ -4,7 +4,7 @@
 ### Original Author: Tina Fu
 ### Original Date: 05 March 2018
 ### Last edited by: Jack Hannah
-### Last edited on: 23 April 2019
+### Last edited on: 21 October 2019
 ###
 ### Can be run on either RStudio Server or RStudio Desktop
 ###
@@ -40,7 +40,7 @@ library(readxl)
 library(here)
 library(readr)
 library(dplyr)
-library(tidyr)
+library(tidyr) # Ensure tidyr version is >= 1.0.0
 
 
 
@@ -81,8 +81,10 @@ new_pops <- pops %>%
   
   # Restructure the dataset so that age is a single column with a corresponding 
   # value in a new population column
-  # (Hint: use tidyr::gather())
-   
+  # (Hint: use tidyr::pivot_longer())
+  
+  
+  
   
   # Drop the 'age_' prefix from the values contained within the age variable 
   # and convert this variable to numeric, changing the 'age_90_and_over' value 
