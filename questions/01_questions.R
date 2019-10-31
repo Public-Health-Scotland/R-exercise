@@ -77,7 +77,6 @@ new_pops <- pops %>%
   
   # Restructure the dataset so that age is a single column with a corresponding 
   # value in a new population column
-  # (Hint: use tidyr::pivot_longer())
   
   
   
@@ -85,7 +84,6 @@ new_pops <- pops %>%
   # Drop the 'age_' prefix from the values contained within the age variable 
   # and convert this variable to numeric, changing the 'age_90_and_over' value 
   # to 90 in the process
-  # (Hint: use readr::parse_number())
   
   
   # Arrange the data in ascending order of year, council area code, age and sex
