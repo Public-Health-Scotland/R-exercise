@@ -1,6 +1,6 @@
 # R-exercise
 
-This exercise will be given to teams interested in creating a [Reproducible Analytical Pipeline (RAP)](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) by [TPP](https://www.isdscotland.org/Products-and-Services/Transforming-Publishing-Programme/). It is designed to give a rough indication of a team's experience with R.
+This exercise will be given to analysts interested in creating a [Reproducible Analytical Pipeline (RAP)](https://www.isdscotland.org/About-ISD/Methodologies/_docs/Reproducible_Analytical_Pipelines_paper_v1.4.pdf) by [TPP](https://www.isdscotland.org/Products-and-Services/Transforming-Publishing-Programme/). It is designed to give a rough indication of a person's experience with R.
 
 The data used in this exercise are a populations file split by council area, year, age and sex (downloaded from the [NRS website](https://www.nrscotland.gov.uk/)) and a council area name/code lookup file. The exercise is focused predominantly on manipulations carried out on the populations file.
 
