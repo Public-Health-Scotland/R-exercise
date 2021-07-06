@@ -6,4 +6,4 @@ The data used in this exercise are a populations file split by council area, yea
 
 Code and comments are provided for section 1. The comments for sections 2 and 3 (plus a small piece of code for section 3) are provided; space is provided to fill in the code. We recommend using the [tidyverse style](https://style.tidyverse.org/) of coding and piping (`%>%`) each part of section 3 together. We encourage using [Google](https://www.google.co.uk/), [Stack Overflow](https://stackoverflow.com/questions/tagged/r), R help files (accessible by typing `?function_name` into the RStudio console) and any other suitable resources which aid the process of completing this exercise and using R in general.
 
-To download this repository, click the green 'Clone or download' button and then click 'Download ZIP'.
+To download this repository, click the green 'Code' button and then click 'Download ZIP'.
